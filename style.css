@@ -1,0 +1,77 @@
+
+h1 {
+  
+  font-family: Helvetica, Arial, sans-serif;
+  font-size= 50px;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+  .crop-frame {
+    width: 1000px;
+ 
+    overflow: hidden; 
+  }
+  .crop-frame img {
+    margin: -20px 0 0 -10px; /* Use negative margins to move the GIF inside the frame */
+  }
+.purple-link {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.purple-link:hover {
+  color: #92278f;
+}
+.purple-link:active {
+  font-size: 20px;
+  color: #92278f;
+}
+
+.yellow-link {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.yellow-link:hover {
+  color: #fbb040;
+}
+.yellow-link:active {
+  font-size: 20px;
+  color: #fbb040;
+}
+
+
+.red-link {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.red-link:hover {
+  color: #ed1c24;
+}
+.red-link:active {
+  font-size: 20px;
+  color: #ed1c24;
+}
+
+
+.green-link {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.green-link:hover {
+  color: #5c8d51;
+}
+.green-link:active {
+  font-size: 20px;
+  color: #5c8d51;
+}
+
+
+
+.thin-paragraph {
+  width: 700px;
+}
